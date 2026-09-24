@@ -1,4 +1,7 @@
+package users;
 import java.util.*;
+
+import Skill;
 
 public class Student extends User{
     private int studentId;
